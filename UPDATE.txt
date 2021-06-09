@@ -1,0 +1,14 @@
+Updates: REV070621-150521-150821
+* Hardcards: 
+	Added fix bug simbol : '$' in prices 
+* Recepcion:
+	Added fix bug in to :
+	'
+		Recepcion.
+		Crear nueva
+	'
+	1 - Button label :'Cerrar' in right upper corner
+	2 - Button label :'Retroceder' in right upper corner
+	3 - Button label :'Retroceder' in right lower corner
+ 	4 - Button label :'EURO' in left lower corner
+	
